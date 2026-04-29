@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard | Power BI + SQL + AdventureWorks
+# Sales Analysis Dashboard | AdventureWorks
 
 ## Project Overview
 
